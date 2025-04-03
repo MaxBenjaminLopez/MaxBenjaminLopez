@@ -1,13 +1,10 @@
 <h1 align="center">Hi , I'm Benjamin López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<p><img align="right" width="35%" height="35%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o4cGw3dTcwN29kYzB0Z25zczJwY3ljbW9tdmhrYjBsbzN5cng5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
+<p><img align="right" width="40%" height="40%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o4cGw3dTcwN29kYzB0Z25zczJwY3ljbW9tdmhrYjBsbzN5cng5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
 
 ### 🛠 &nbsp; Languages
 
