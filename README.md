@@ -6,7 +6,9 @@
 
 <p><img align="right" witdh="400px" height="400px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Benjamin lopez" /></p>
 
-- 📈 Improving day by day, so that one day I can become an AI developer with Python.
+- 📈 Improving day by day and learning libraries and tools to help me develop with Python.
+- ⭐ Goals: Artificial Intelligence Developer 
+
 
 ### 🛠 &nbsp; Languages
 
