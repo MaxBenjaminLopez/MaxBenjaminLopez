@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer..&hearts;++;self-taught+programmer"></a>
 </p>
 
-<p><img align="right" witdh="30%" height="30%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Benjamin lopez" /></p>
+<p><img align="right" witdh="400px" height="400px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Benjamin lopez" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
